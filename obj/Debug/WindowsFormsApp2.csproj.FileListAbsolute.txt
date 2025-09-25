@@ -1,0 +1,14 @@
+C:\Users\fkwogus12.DOFTECH0\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\fkwogus12.DOFTECH0\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\fkwogus12.DOFTECH0\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\fkwogus12.DOFTECH0\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\fkwogus12.DOFTECH0\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\fkwogus12.DOFTECH0\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\fkwogus12.DOFTECH0\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\fkwogus12.DOFTECH0\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\fkwogus12.DOFTECH0\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\fkwogus12.DOFTECH0\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\fkwogus12.DOFTECH0\source\repos\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fkwogus12.DOFTECH0\source\repos\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fkwogus12.DOFTECH0\source\repos\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+C:\Users\fkwogus12.DOFTECH0\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainForm.resources
